@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hasan Naim</h1>
+<h1 align="center">Hi 👋, I'm MAHMUDUL HASAN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-naim&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-naim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-naim&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMUDUL'S WEBSITE" /> </p>
 
 <h3 align="center"><a href="https://hasan-naim.github.io">visit my website</a></h3>
 <h1 align="center"><a href="https://hasan-naim.github.io"><img width="700px"  src="/myWebsite.png" /></a></h1>
