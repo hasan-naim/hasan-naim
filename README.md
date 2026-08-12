@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-naim&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMUDUL'S WEBSITE" /> </p>
 
-<h3 align="center"><a href="https://hasan-naim.netlify.app/">visit my website</a></h3>
+<h3 align="center"><a href="https://hasan-naim.github.io/">visit my website</a></h3>
 <h1 align="center"><a href="https://hasan-naim.github.io"><img width="700px"  src="/myWebsite.png" /></a></h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-naim" alt="hasan-naim" /></a> </p>
